@@ -1,2 +1,2 @@
-# Atividade-de-Redes-de-Computadores
+# Atividades de Redes de Computadores
 Atividade de RC usando Wireshark
